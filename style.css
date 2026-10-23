@@ -5,7 +5,7 @@
 }
 
 nav {
-  background-color: #c0e1d2;
+  background-color: #1e293b;
   height: 10vh;
   width: 100vw;
   display: flex;
@@ -15,7 +15,7 @@ nav {
 .priotityColors {
   height: 60%;
   width: 30%;
-  background-color: #f6f4e8;
+  background-color: #334155;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -41,14 +41,14 @@ nav {
 .options {
   height: 60%;
   width: 10%;
-  background-color: #f6f4e8;
+  background-color: #334155;
   display: flex;
   justify-content: space-around;
   align-items: center;
   border-radius: 10px;
 }
 .taskContainer {
-  background-color: #f6f4e8;
+  background-color: #c3d6e9;
   height: 90vh;
   width: 100vw;
   display: flex;
@@ -61,7 +61,7 @@ nav {
   height: 35vh;
   width: 15%;
   border: 0.1px solid rgb(164, 162, 162);
-  background-color: #e5eee4;
+  background-color: #ffffff;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -86,7 +86,7 @@ nav {
 .taskAdder {
   height: 40vh;
   width: 35vw;
-  background-color: #c0e1d2;
+  background-color: #e2e8f0;
   position: fixed;
   top: 20vh;
   left: 30vw;
@@ -100,7 +100,7 @@ nav {
   border: none;
   height: 100%;
   width: 80%;
-  background-color: white;
+  background-color:  #ffffff;
   padding: 10px;
   font-size: 1.1rem;
   font-weight: 500;
@@ -129,3 +129,9 @@ nav {
 #pTag {
   word-wrap: break-word;
 }
+
+
+
+
+
+
